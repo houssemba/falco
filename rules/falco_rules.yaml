@@ -2875,6 +2875,7 @@
 - list: user_known_k8s_ns_kube_system_images
   items: [
       k8s.gcr.io/fluentd-gcp-scaler,
+      gke.gcr.io/fluentd-gcp-scaler,
       k8s.gcr.io/node-problem-detector/node-problem-detector
   ]
 
